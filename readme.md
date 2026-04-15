@@ -65,7 +65,7 @@
 	 cmake ..
 	 cmake --build .
 	```
-3. 生成的可执行文件为 `School_Card_Manage`，可直接运行。
+3. 生成的可执行文件为 `School_Card_Manage_System`，可直接运行。
 
 ### 运行说明
 - 首次运行会自动生成数据文件。
